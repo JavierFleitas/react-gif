@@ -1,3 +1,3 @@
 # React + Vite
 
-Este es mi proyecto del curso de react
+Proyecto de de react conectado a una api
